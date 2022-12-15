@@ -1,0 +1,27 @@
+.jugadores{
+    background: center;
+
+}
+.descripcion{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: overline;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+}
+.imagenes{
+    text-align: center;
+}
+.subtitulo{
+    text-align: left;
+    text-decoration: underline;
+}
+.descripcion2{
+    text-align: left;
+}
